@@ -1,0 +1,10 @@
+body {
+background-color: #aec3bf
+}
+.alinear_flex {display: flex;
+justify-content: center;width: 100%;
+justify: 100%}
+.alinear_flex2 {display: flex;
+justify-content: center;}
+.alinear_flex3 {display: flex;
+justify-content: center;}
