@@ -1,5 +1,7 @@
 body {
 background-color: #aec3bf
+background-image: url(../imagenes/fondo3.jpg);
+
 }
 .alinear_flex {display: flex;
 justify-content: center;width: 100%;
@@ -8,3 +10,23 @@ justify: 100%}
 justify-content: center;}
 .alinear_flex3 {display: flex;
 justify-content: center;}
+.celestito  {
+background-color: #c6e1dc;
+
+}
+.LogoWas {position: fixed;
+bottom: 20px;
+width: 60px;
+right: 10px;
+}
+.LogoIg  {position: fixed;
+bottom: 20px;
+width: 60px;
+right: 80px;
+
+}
+.HABLANOS {position: fixed;
+bottom: 20px;
+width: 60px;
+right: 190px;
+marquee: 10px;
